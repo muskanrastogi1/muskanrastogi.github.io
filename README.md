@@ -12,8 +12,8 @@ This repository is made by Muskan Rastogi to develop, maintain and deploy her po
 
 ![Generic badge](https://img.shields.io/badge/Muskan-Rastogi-orange) 
 
-#### Link for [demo](https://www.rastogi.codes/) 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://www.rastogi.codes/)
+#### Link for [demo](https://muskanrastogi1.github.io/) 
+[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://muskanrastogi1.github.io/)
 
 ## Requirements
 [![GitHub top language](https://img.shields.io/github/languages/top/muskanrastogi1/muskanrastogi1.github.io?logo=css&style=social)](https://github.com/muskanrastogi1/)
