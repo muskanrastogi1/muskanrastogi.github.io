@@ -6,7 +6,7 @@ This repository is made by Muskan Rastogi to develop, maintain and deploy her po
 
 <p align="center">
 <a href="#!">
-<img src="https://github.com/muskanrastogi1/muskanrastogi1.github.io/blob/master/images/Muskan.png" width="120px" height="120px" alt="muskanrastogi1.github.io Logo"/>
+<img src="https://github.com/muskanrastogi1/muskanrastogi1.github.io/tree/main/images/Muskan.png" width="120px" height="120px" alt="muskanrastogi1.github.io Logo"/>
 </a>
 </p>
 
