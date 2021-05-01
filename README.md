@@ -5,8 +5,8 @@
 This repository is made by Muskan Rastogi to develop, maintain and deploy her portfolio website.
 
 <p align="center">
-<a href="#!">
-<img src="https://github.com/muskanrastogi1/muskanrastogi1.github.io/blob/master/images/Muskan.png" width="120px" height="120px" alt="muskanrastogi1.github.io Logo"/>
+<a href="https://muskanrastogi1.github.io/">
+<img src="https://github.com/muskanrastogi1/muskanrastogi1.github.io/blob/master/images/Muskan.png"  alt="muskanrastogi1.github.io Logo"/>
 </a>
 </p>
 
